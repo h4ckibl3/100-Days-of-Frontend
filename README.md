@@ -6,7 +6,6 @@
 ## Overview
 
 The "100 Days of Frontend" project is a commitment to daily learning and practice for frontend developers. Whether you're a beginner looking to build a strong foundation or an experienced developer seeking to hone your skills, this challenge offers a structured way to improve.
-
 ### [![Codedamn Challenge Link](http://www.w3.org/2000/svg)](https://codedamn.com/challenge/100-days-of-frontend)<br>
 
 
