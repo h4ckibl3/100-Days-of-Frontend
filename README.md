@@ -5,3 +5,8 @@
 ## Overview
 
 The "100 Days of Frontend" project is a commitment to daily learning and practice for frontend developers. Whether you're a beginner looking to build a strong foundation or an experienced developer seeking to hone your skills, this challenge offers a structured way to improve.
+
+
+## How It Works
+
+- **Daily Challenges**: Each day, you'll receive a new frontend coding challenge. These challenges cover a wide range of topics, from HTML and CSS to JavaScript, frameworks, and more.
