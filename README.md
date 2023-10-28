@@ -1,4 +1,4 @@
-# 100-Days-of-Frontend
+# 100-Days-of-Frontend Challenge
 
 **Take your frontend development skills to the next level! Join the 100 Days of Frontend challenge and embark on a journey to become a better developer, one day at a time.**
 
@@ -14,8 +14,6 @@
 - **Daily Challenges**: Each day, you'll receive a new frontend coding challenge. These challenges cover a wide range of topics, from HTML and CSS to JavaScript, frameworks, and more.
 
 ----------------
-
-# 100-Days-of-Frontend Challenge
 
 ## 1. Problem Template
 
