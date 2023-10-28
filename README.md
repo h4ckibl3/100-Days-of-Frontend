@@ -13,6 +13,7 @@
 
 - **Daily Challenges**: Each day, you'll receive a new frontend coding challenge. These challenges cover a wide range of topics, from HTML and CSS to JavaScript, frameworks, and more.
 
+
 ----------------
 
 ## 1. Problem Template
@@ -21,4 +22,7 @@
 * ***Solution***
 
 -----------------
+
+
+## 2. Practice Status
 
