@@ -26,3 +26,4 @@
 
 ## 2. Practice Status
 
+* **[Day 1](https://github.com/h4ckibl3/100-Days-of-Frontend/blob/main/Problem/Day-1.md "Day 1 Status")**
