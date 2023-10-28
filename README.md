@@ -10,7 +10,6 @@ The "100 Days of Frontend" project is a commitment to daily learning and practic
 ### [![Codedamn Challenge Link](http://www.w3.org/2000/svg)](https://codedamn.com/challenge/100-days-of-frontend)<br>
 
 
-
 ## How It Works
 
 - **Daily Challenges**: Each day, you'll receive a new frontend coding challenge. These challenges cover a wide range of topics, from HTML and CSS to JavaScript, frameworks, and more.
