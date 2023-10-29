@@ -74,6 +74,61 @@
 
 ---
 
+### **Initial Code for the Lab**
+
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Semantic HTML Structure</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<!-- Starting writing your code below this line -->
+	</body>
+</html>
+
+```
+
+### **Final Code for the Lab**
+
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Semantic HTML Structure</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<!-- Starting writing your code below this line -->
+		<div id="container">
+			<header>Page Header</header>
+			<nav>
+				<ul>
+				  <li><a href="#">Home</a></li>
+				  <li><a href="#">About</a></li>
+				  <li><a href="#">Services</a></li>
+				  <li><a href="#">Contact</a></li>
+				</ul>
+			  </nav>
+			  <main>Main Content</main>
+			  <footer>Footer</footer>
+		</div>
+
+	</body>
+</html>
+
+```
+
+## Conclusion
+
+**_These was the solved problems of day 1._**
+
+[**_Go to next day_**](https://github.com/h4ckibl3/100-Days-of-Frontend/blob/main/Problem/Challenge-Day-2.md "Next Day")
+
+
+
+
 
 
 
