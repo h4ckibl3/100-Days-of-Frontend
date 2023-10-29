@@ -28,5 +28,11 @@
 
 * **[Day 1](https://github.com/h4ckibl3/100-Days-of-Frontend/blob/main/Problem/Challenge-Day-1.md "Day 1 Status")**
 
-* **[Day 2](https://github.com/h4ckibl3/100-Days-of-Frontend/blob/main/Problem/Challenge-Day-2.md "Day 1 Status")**
+* **[Day 2](https://github.com/h4ckibl3/100-Days-of-Frontend/blob/main/Problem/Challenge-Day-2.md "Day 2 Status")**
+
+* **[Day 3](https://github.com/h4ckibl3/100-Days-of-Frontend/blob/main/Problem/Challenge-Day-3.md "Day 3 Status")**
+
+* **[Day 4](https://github.com/h4ckibl3/100-Days-of-Frontend/blob/main/Problem/Challenge-Day-4.md "Day 4 Status")**
+
+
 
