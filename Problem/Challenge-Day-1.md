@@ -124,6 +124,8 @@
 
 **_These was the solved problems of day 1._**
 
+[**_Link to the lab_**](https://codedamn.com/problem/WsP0htQRj3T8pGWNmTiXQ?challengeList=100-days-of-frontend "Next Day")
+
 [**_Go to next day_**](https://github.com/h4ckibl3/100-Days-of-Frontend/blob/main/Problem/Challenge-Day-2.md "Next Day")
 
 
