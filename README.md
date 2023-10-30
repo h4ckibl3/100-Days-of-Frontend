@@ -42,5 +42,10 @@
 
 * **[Complete CSS](https://www.youtube.com/watch?v=1Rs2ND1ryYc&ab_channel=freeCodeCamp.org "HTML")**
 
+* **[Complete JAVASCRIPT](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org "Javascript")**
+
+
+
+
 
 
