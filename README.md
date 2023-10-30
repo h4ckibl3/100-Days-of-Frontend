@@ -36,7 +36,7 @@
 
 -------------------
 
-## 3. Resouces 
+## 3. Resources 
 
 * **[Complete HTML](https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org "HTML")**
 
