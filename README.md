@@ -34,5 +34,13 @@
 
 * **[Day 4](https://github.com/h4ckibl3/100-Days-of-Frontend/blob/main/Problem/Challenge-Day-4.md "Day 4 Status")**
 
+-------------------
+
+## 3. Resouces 
+
+* **[Complete HTML](https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org "HTML")**
+
+* **[Complete CSS](https://www.youtube.com/watch?v=1Rs2ND1ryYc&ab_channel=freeCodeCamp.org "HTML")**
+
 
 
